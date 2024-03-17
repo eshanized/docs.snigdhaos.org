@@ -43,7 +43,7 @@ export default {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Snigdha OS Docs Logo",
         "src": "img/snigdha-os-docs.svg"
       },
       "items": [

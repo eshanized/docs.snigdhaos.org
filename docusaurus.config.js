@@ -60,6 +60,9 @@ const config = {
       }),
     ],
   ],
+  /**
+   * @eshanized: custom codes.
+   */
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -69,7 +72,7 @@ const config = {
       navbar: {
         // title: 'SNIGDHA OS - DOCS',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Snigdha OS Docs Logo',
           src: 'img/snigdha-os-docs.svg',
         },
         items: [
