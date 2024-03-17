@@ -1,5 +1,5 @@
 endi:
-  name: Endilie Yacop Sucipto
+  name: Eshan Roy
   title: Maintainer of Docusaurus
   url: https://github.com/endiliey
   image_url: https://github.com/endiliey.png
@@ -10,8 +10,8 @@ yangshun:
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+eshanized:
+  name: Eshan Roy
+  title: Lead Developer & Maintainer
+  url: https://eshanized.github.io/
+  image_url: https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true

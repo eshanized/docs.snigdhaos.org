@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SNIGDHA OS > DOCUMENTATION',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/snigdhaos.svg',
 
   // Set the production url of your site here
   url: 'https://docs.snigdhaos.org',
@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Snigdha-OS/docs.snigdhaos.org/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -60,6 +60,9 @@ const config = {
       }),
     ],
   ],
+  /**
+   * @eshanized: custom codes.
+   */
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -69,7 +72,7 @@ const config = {
       navbar: {
         // title: 'SNIGDHA OS - DOCS',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Snigdha OS Docs Logo',
           src: 'img/snigdha-os-docs.svg',
         },
         items: [

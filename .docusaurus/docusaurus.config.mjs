@@ -6,7 +6,7 @@
 export default {
   "title": "SNIGDHA OS > DOCUMENTATION",
   "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/snigdhaos.svg",
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/",
   "organizationName": "Snigdha-OS",
@@ -31,7 +31,7 @@ export default {
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/docs.snigdhaos.org/tree/master/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -43,7 +43,7 @@ export default {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Snigdha OS Docs Logo",
         "src": "img/snigdha-os-docs.svg"
       },
       "items": [

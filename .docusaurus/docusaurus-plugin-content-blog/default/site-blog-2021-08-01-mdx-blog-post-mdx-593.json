@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/mdx-blog-post",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+  "editUrl": "https://github.com/Snigdha-OS/docs.snigdhaos.org/tree/master/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -16,10 +16,10 @@
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
+      "name": "Eshan Roy",
+      "title": "Lead Developer & Maintainer",
+      "url": "https://eshanized.github.io/",
+      "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
       "key": "slorber"
     }
   ],
@@ -37,9 +37,5 @@
   "prevItem": {
     "title": "Welcome",
     "permalink": "/blog/welcome"
-  },
-  "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
   }
 }
