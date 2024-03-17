@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '80a'),
+    component: ComponentCreator('/blog', '992'),
     exact: true
   },
   {
@@ -48,18 +48,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '253'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '857'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '1d7'),
+    path: '/blog/create-gpg-key-archlinux',
+    component: ComponentCreator('/blog/create-gpg-key-archlinux', '95e'),
     exact: true
   },
   {
@@ -68,23 +58,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '453'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'ec7'),
+    path: '/blog/tags/eshanized',
+    component: ComponentCreator('/blog/tags/eshanized', '097'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '592'),
+    component: ComponentCreator('/blog/tags/hello', '31f'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'dd5'),
+    path: '/blog/tags/snigdha-os',
+    component: ComponentCreator('/blog/tags/snigdha-os', 'e01'),
     exact: true
   },
   {

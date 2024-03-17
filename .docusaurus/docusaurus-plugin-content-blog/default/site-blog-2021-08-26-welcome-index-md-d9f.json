@@ -8,52 +8,44 @@
   "formattedDate": "August 26, 2021",
   "tags": [
     {
-      "label": "facebook",
-      "permalink": "/blog/tags/facebook"
+      "label": "snigdha-os",
+      "permalink": "/blog/tags/snigdha-os"
     },
     {
       "label": "hello",
       "permalink": "/blog/tags/hello"
     },
     {
-      "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "label": "eshanized",
+      "permalink": "/blog/tags/eshanized"
     }
   ],
   "readingTime": 0.405,
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
+      "name": "Eshan Roy",
+      "title": "Lead Developer & Maintainer",
+      "url": "https://eshanized.github.io/",
+      "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
       "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
     }
   ],
   "frontMatter": {
     "slug": "welcome",
     "title": "Welcome",
     "authors": [
-      "slorber",
-      "yangshun"
+      "slorber"
     ],
     "tags": [
-      "facebook",
+      "snigdha-os",
       "hello",
-      "docusaurus"
+      "eshanized"
     ]
   },
   "unlisted": false,
-  "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
+  "prevItem": {
+    "title": "create-gpg-key-archlinux",
+    "permalink": "/blog/create-gpg-key-archlinux"
   }
 }

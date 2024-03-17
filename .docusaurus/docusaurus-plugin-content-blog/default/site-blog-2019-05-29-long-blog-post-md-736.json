@@ -20,7 +20,7 @@
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Endilie Yacop Sucipto",
+      "name": "Eshan Roy",
       "title": "Maintainer of Docusaurus",
       "url": "https://github.com/endiliey",
       "imageURL": "https://github.com/endiliey.png",
@@ -40,9 +40,5 @@
   "prevItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
   }
 }
