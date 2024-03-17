@@ -6,15 +6,45 @@
         "permalink": "/blog/create-gpg-key-archlinux",
         "editUrl": "https://github.com/Snigdha-OS/docs.snigdhaos.org/tree/master/blog/create-gpg-key-archlinux.md",
         "source": "@site/blog/create-gpg-key-archlinux.md",
-        "title": "create-gpg-key-archlinux",
+        "title": "Create GPG Key for Arch Linux Packaging",
         "description": "",
-        "date": "2024-03-17T15:16:14.708Z",
-        "formattedDate": "March 17, 2024",
-        "tags": [],
+        "date": "2024-03-16T23:53:06.000Z",
+        "formattedDate": "March 16, 2024",
+        "tags": [
+          {
+            "label": "snigdha-os",
+            "permalink": "/blog/tags/snigdha-os"
+          },
+          {
+            "label": "hello",
+            "permalink": "/blog/tags/hello"
+          },
+          {
+            "label": "eshanized",
+            "permalink": "/blog/tags/eshanized"
+          }
+        ],
         "readingTime": 0,
         "hasTruncateMarker": false,
-        "authors": [],
-        "frontMatter": {},
+        "authors": [
+          {
+            "name": "Eshan Roy",
+            "title": "Lead Developer & Maintainer",
+            "url": "https://eshanized.github.io/",
+            "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
+            "key": "eshanized"
+          }
+        ],
+        "frontMatter": {
+          "authors": [
+            "eshanized"
+          ],
+          "tags": [
+            "snigdha-os",
+            "hello",
+            "eshanized"
+          ]
+        },
         "unlisted": false,
         "nextItem": {
           "title": "Welcome",
@@ -31,8 +61,8 @@
         "source": "@site/blog/2021-08-26-welcome/index.md",
         "title": "Welcome",
         "description": "Docusaurus blogging features are powered by the blog plugin.",
-        "date": "2021-08-26T00:00:00.000Z",
-        "formattedDate": "August 26, 2021",
+        "date": "2024-03-16T10:00:00.000Z",
+        "formattedDate": "March 16, 2024",
         "tags": [
           {
             "label": "snigdha-os",
@@ -55,24 +85,25 @@
             "title": "Lead Developer & Maintainer",
             "url": "https://eshanized.github.io/",
             "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
-            "key": "slorber"
+            "key": "eshanized"
           }
         ],
         "frontMatter": {
           "slug": "welcome",
           "title": "Welcome",
           "authors": [
-            "slorber"
+            "eshanized"
           ],
           "tags": [
             "snigdha-os",
             "hello",
             "eshanized"
-          ]
+          ],
+          "date": "2024-03-16T10:00"
         },
         "unlisted": false,
         "prevItem": {
-          "title": "create-gpg-key-archlinux",
+          "title": "Create GPG Key for Arch Linux Packaging",
           "permalink": "/blog/create-gpg-key-archlinux"
         }
       },

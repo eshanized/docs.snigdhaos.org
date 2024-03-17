@@ -59,17 +59,17 @@ export default [
   },
   {
     path: '/blog/tags/eshanized',
-    component: ComponentCreator('/blog/tags/eshanized', '097'),
+    component: ComponentCreator('/blog/tags/eshanized', '12f'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '31f'),
+    component: ComponentCreator('/blog/tags/hello', 'cb9'),
     exact: true
   },
   {
     path: '/blog/tags/snigdha-os',
-    component: ComponentCreator('/blog/tags/snigdha-os', 'e01'),
+    component: ComponentCreator('/blog/tags/snigdha-os', '003'),
     exact: true
   },
   {

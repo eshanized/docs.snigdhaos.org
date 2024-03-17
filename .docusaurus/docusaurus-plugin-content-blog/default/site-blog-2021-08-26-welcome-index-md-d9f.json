@@ -4,8 +4,8 @@
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
-  "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "August 26, 2021",
+  "date": "2024-03-16T10:00:00.000Z",
+  "formattedDate": "March 16, 2024",
   "tags": [
     {
       "label": "snigdha-os",
@@ -28,24 +28,25 @@
       "title": "Lead Developer & Maintainer",
       "url": "https://eshanized.github.io/",
       "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
-      "key": "slorber"
+      "key": "eshanized"
     }
   ],
   "frontMatter": {
     "slug": "welcome",
     "title": "Welcome",
     "authors": [
-      "slorber"
+      "eshanized"
     ],
     "tags": [
       "snigdha-os",
       "hello",
       "eshanized"
-    ]
+    ],
+    "date": "2024-03-16T10:00"
   },
   "unlisted": false,
   "prevItem": {
-    "title": "create-gpg-key-archlinux",
+    "title": "Create GPG Key for Arch Linux Packaging",
     "permalink": "/blog/create-gpg-key-archlinux"
   }
 }
