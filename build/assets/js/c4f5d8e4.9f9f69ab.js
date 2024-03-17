@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_snigdhaos_org=self.webpackChunkdocs_snigdhaos_org||[]).push([[634],{192:(s,o,d)=>{d.r(o),d.d(o,{default:()=>e});d(6540);var r=d(6347),c=d(4848);function e(){return(0,c.jsx)(r.rd,{to:"/docs/"})}}}]);
