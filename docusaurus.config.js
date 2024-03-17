@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SNIGDHA OS > DOCUMENTATION',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/snigdhaos.svg',
 
   // Set the production url of your site here
   url: 'https://docs.snigdhaos.org',

@@ -6,7 +6,7 @@
 export default {
   "title": "SNIGDHA OS > DOCUMENTATION",
   "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/snigdhaos.svg",
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/",
   "organizationName": "Snigdha-OS",
