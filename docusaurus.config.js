@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SNIGDHA OS - DOCS',
-  tagline: 'Be silent when it is time to hear!',
-  favicon: 'img/snigdhaos.svg',
+  title: 'SNIGDHA OS > DOCUMENTATION',
+  tagline: 'Dinosaurs are cool',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.snigdhaos.org/',
+  url: 'https://docs.snigdhaos.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Snigdha-OS', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'bn'],
+    locales: ['en'],
   },
 
   presets: [
@@ -40,18 +40,19 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            '#',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            '#',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,36 +67,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SNIGDHA OS - DOCS',
+        // title: 'SNIGDHA OS - DOCS',
         logo: {
-          alt: 'Snigdha OS Logo',
-          src: 'img/snigdhaos.svg',
+          alt: 'My Site Logo',
+          src: 'img/snigdha-os-docs.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://snigdhaos.org/',
-            label: 'Home',
-            position: 'right',
-          },
-          {
-            href: 'https://cloud.snigdhaos.org/',
-            label: 'Cloud',
-            position: 'right',
-          },
-          {
-            href: 'https://forum.snigdhaos.org/',
-            label: 'Forum',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/Snigdha-OS/',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -105,36 +91,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Important',
+            title: 'Docs',
             items: [
               {
-                label: 'Inspiration',
-                to: '/docs/inspiration',
+                label: 'Tutorial',
+                to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Social',
+            title: 'Community',
             items: [
-              // {
-              //   label: 'Forum',
-              //   href: 'https://forum.snigdhaos.org/',
-              // },
               {
-                label: 'Facebook',
-                href: 'https://facebook.com/snigdhalinux',
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Instagram',
-                href: 'https://instagram.com/snigdhaos',
-              },
-              {
-                label: 'Threads',
-                href: 'https://instagram.com/snigdhaos',
-              },
-              {
-                label: 'Reddit',
-                href: 'https://reddit.com/u/snigdhaos',
+                label: 'Discord',
+                href: 'https://discordapp.com/invite/docusaurus',
               },
               {
                 label: 'Twitter',
@@ -143,36 +117,20 @@ const config = {
             ],
           },
           {
-            title: 'Links',
+            title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
-                label: 'SNIGDHA OS - HOME',
-                href: 'https://snigdhaos.org/',
+                label: 'Blog',
+                to: '/blog',
               },
               {
-                label: 'SNIGDHA OS - CLOUD',
-                href: 'https://cloud.snigdhaos.org/',
-              },
-              {
-                label: 'SNIGDHA OS - FORUM',
-                href: 'https://forum.snigdhaos.org/',
-              },
-              {
-                label: 'SNIGDHA OS - DOCS',
-                href: 'https://docs.snigdhaos.org/',
-              },
-              {
-                label: 'SNIGDHA OS - GITHUB',
+                label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SNIGDHA OS. ALL RIGHTS RESERVED.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SNIGDHA OS.ALL RIGHTS RESERVED.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -182,4 +140,3 @@ const config = {
 };
 
 export default config;
-
