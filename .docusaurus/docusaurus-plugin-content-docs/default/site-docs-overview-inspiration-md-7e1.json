@@ -1,0 +1,23 @@
+{
+  "id": "Overview/inspiration",
+  "title": "Inspiration",
+  "description": "Developing an operating system (OS) is a monumental task that requires a significant amount of time, effort, and expertise. As a programmer I embark on such a journey which are driven by a combination of technical curiosity, a desire for greater control and customization, and the pursuit of solving specific technical challenges. Why I have developed Snigdha OS?",
+  "source": "@site/docs/Overview/inspiration.md",
+  "sourceDirName": "Overview",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Overview/inspiration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "inspiration",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Naming",
+    "permalink": "/docs/naming"
+  }
+}

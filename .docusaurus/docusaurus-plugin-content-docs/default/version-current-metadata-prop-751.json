@@ -1,0 +1,50 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Overview",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Inspiration",
+            "href": "/docs/",
+            "docId": "Overview/inspiration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Naming",
+            "href": "/docs/naming",
+            "docId": "Overview/naming",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "Overview/inspiration": {
+      "id": "Overview/inspiration",
+      "title": "Inspiration",
+      "description": "Developing an operating system (OS) is a monumental task that requires a significant amount of time, effort, and expertise. As a programmer I embark on such a journey which are driven by a combination of technical curiosity, a desire for greater control and customization, and the pursuit of solving specific technical challenges. Why I have developed Snigdha OS?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Overview/naming": {
+      "id": "Overview/naming",
+      "title": "Naming",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

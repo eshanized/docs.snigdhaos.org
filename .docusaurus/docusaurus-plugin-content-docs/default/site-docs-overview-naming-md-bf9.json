@@ -1,0 +1,23 @@
+{
+  "id": "Overview/naming",
+  "title": "Naming",
+  "description": "",
+  "source": "@site/docs/Overview/naming.md",
+  "sourceDirName": "Overview",
+  "slug": "/naming",
+  "permalink": "/docs/naming",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Overview/naming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "naming",
+    "slug": "/naming"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inspiration",
+    "permalink": "/docs/"
+  }
+}
