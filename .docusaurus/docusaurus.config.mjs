@@ -10,7 +10,7 @@ export default {
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/",
   "organizationName": "Snigdha-OS",
-  "projectName": "docs",
+  "projectName": "docs.snigdhaos.org",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/docs.snigdhaos.org/tree/master/"
         },
         "blog": {
           "showReadingTime": true,
